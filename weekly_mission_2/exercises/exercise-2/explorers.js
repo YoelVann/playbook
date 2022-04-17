@@ -78,6 +78,5 @@ console.log("All exercices completed: " + completedExercises);
 const exercicesFinished = explorers.some(explorer => explorer.missions.frontend.isFinished === true);
 console.log("Some explorer has finihed his frontend mission exercies? " + exercicesFinished);
 
-
 const onBoardingFinished = explorers.every(explorer => explorer.missions.onboarding.isFinished === true);
 console.log("All explorers has finished the on boarding mission? "+ onBoardingFinished);
