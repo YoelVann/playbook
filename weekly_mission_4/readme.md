@@ -8,6 +8,6 @@ Proyectos desarrollados en la semana 4:
 | ------------- |:-------------:| -----:|
 |`fizzbuzz`|1,2,3|[Link al repo](https://github.com/YoelVann/fizzbuzz)|
 |`PR`|4|[Link al repo](https://github.com/YoelVann/fizzbuzz-visual-partnership)|
-|`Code Challenge`|5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Code Challenge`|5|[Link al repo](https://github.com/YoelVann/visual-thinking)|
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
